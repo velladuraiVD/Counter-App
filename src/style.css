@@ -1,38 +1,53 @@
-body{
-    
-}
-#div1{
-   margin-left: 35%;
-   margin-top: 15%;
-   background-color: black;
-   height: 50%;
-   width: 25%;
+body {}
+
+#div1 {
+    margin-left: 35%;
+    margin-top: 15%;
+    background-color: rgb(32, 33, 41);
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    border: solid black;
+    border-radius: 30px;
 
 }
 
-#result{
-    
+#result {
+
     padding-top: 20px;
     margin: 20px;
     color: white;
     text-align: center;
-    
+
 }
 
-#inc{
+#inc {
     background-color: green;
     color: black;
-    padding: 20px;
-    margin-left: 2%;
-    text-align: left;
-}
-
-#dec{
-    background-color: red;
-    padding: 20px;
-    margin-left: 66%;
-    margin-bottom: 10%;
-    color: black;
+    height: 50px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 110px;
+    border: solid rgb(32, 33, 41);
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: small;
     
 }
 
+#dec {
+    background-color: red;
+    position: relative;
+    left: 150px;
+    color: black;
+    height: 50px;
+    width: 110px;
+    top: 30px;
+    border: solid rgb(32, 33, 41);
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: small;
+    
+
+}

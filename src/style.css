@@ -1,0 +1,38 @@
+body{
+    
+}
+#div1{
+   margin-left: 35%;
+   margin-top: 15%;
+   background-color: black;
+   height: 50%;
+   width: 25%;
+
+}
+
+#result{
+    
+    padding-top: 20px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    
+}
+
+#inc{
+    background-color: green;
+    color: black;
+    padding: 20px;
+    margin-left: 2%;
+    text-align: left;
+}
+
+#dec{
+    background-color: red;
+    padding: 20px;
+    margin-left: 66%;
+    margin-bottom: 10%;
+    color: black;
+    
+}
+
